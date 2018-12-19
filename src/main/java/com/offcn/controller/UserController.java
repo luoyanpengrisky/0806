@@ -16,14 +16,8 @@ import com.offcn.service.ShiroUserService;
  * @author luoyanpeng
  *
  */
-@Controller
+/*@Controller
 public class UserController {
-
-	
-	
-	
-	
-	
 	@Autowired
 	private ShiroUserService service;
 	
@@ -38,7 +32,7 @@ public class UserController {
 	public void add(){
 		
 	}
-}
+}*/
 
 
 

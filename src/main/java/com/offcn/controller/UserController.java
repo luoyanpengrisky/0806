@@ -19,6 +19,11 @@ import com.offcn.service.ShiroUserService;
 @Controller
 public class UserController {
 
+	
+	
+	
+	
+	
 	@Autowired
 	private ShiroUserService service;
 	
